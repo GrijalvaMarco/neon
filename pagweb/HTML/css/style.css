@@ -96,6 +96,7 @@ body {
 	font-size: 26px;
 	line-height: 1.5em;
 	text-shadow: 1px 1px rgba(255, 255, 255, 1);
+	margin-left: 40%;
 }
 
 #headline>span.sub{
@@ -104,6 +105,7 @@ body {
 	font-size: 18px;
 	line-height: 1.5em;
 	text-shadow: 1px 1px rgba(255, 255, 255, 1);
+	margin-left: 20%;
 }
 
 #headline #link{
@@ -1224,7 +1226,7 @@ h6{ font-size: 20px; }
 #footer-cols li.col ul li.page_item{
 	display: block;
 	line-height: 2.5em;
-	padding-left: 17px;
+	padding-left: 80px;
 	border-top: 1px solid #4a4a4a;
 	border-bottom: 1px solid #000;
 	background: url(../img/footer-bullet.png) no-repeat 0px 10px;
