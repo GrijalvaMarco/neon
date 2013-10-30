@@ -62,7 +62,7 @@ body {
 
 #logo{
 	position: absolute;
-	top: 35px;
+	top: 9px;
 	left: 10px;
 }
 
@@ -1307,13 +1307,9 @@ h6{ font-size: 20px; }
 #bottom .social a:hover{
 	background-position: 0px -32px;
 }
-#eedlogo{
-width: 2%;
+#anuncios{
+	margin-left: 290px;
 }
-#logo{
-	margin-left: 15%;
-}
-
 
 
 
